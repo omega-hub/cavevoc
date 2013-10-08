@@ -1,3 +1,3 @@
 request_dependency(cyclops)
-install(DIRECTORY . DESTINATION omegalib/modules/cavevoc PATTERN ".evl" EXCLUDE)
+install(DIRECTORY . DESTINATION omegalib/modules/cavevoc PATTERN ".git" EXCLUDE)
 
